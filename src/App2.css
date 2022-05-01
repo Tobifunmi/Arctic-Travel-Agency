@@ -1,0 +1,1238 @@
+.Frame28 {
+ position: absolute;
+ width: 1440px;
+ height: 780px;
+ left: 0px;
+ top: 0px;
+ background: linear-gradient(180deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.580838) 32.24%, rgba(0, 0, 0, 0.486293) 62.09%, rgba(0, 0, 0, 0) 98.06%), url(landscape-shot-beautiful-cholatse-mountains-body-water-khumbu-nepal.jpg),
+  url(young-skier-motion-with-beautiful-winter-landscape.jpg);
+}
+
+/* Frame 2 */
+
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+
+
+/* Frame 45 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 184px;
+height: 40px;
+left: 120px;
+top: 30px;
+
+
+
+/* Group 44 */
+
+position: static;
+width: 40px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+border: 0.5px dashed #FFFFFF;
+box-sizing: border-box;
+
+
+/* flight_black_24dp 3 */
+
+position: absolute;
+width: 22.86px;
+height: 22.86px;
+left: 20px;
+top: 4px;
+
+transform: rotate(45deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 70.71%;
+right: -70.71%;
+top: 0%;
+bottom: 0%;
+
+transform: rotate(45deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 70.71%;
+right: -49.88%;
+top: 11.79%;
+bottom: 4.88%;
+
+background: #3E86F5;
+transform: rotate(45deg);
+
+
+/* Arctic Travels */
+
+position: static;
+width: 134px;
+height: 30px;
+left: 50px;
+top: 5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: -0.03em;
+
+/* White-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 270px;
+height: 15px;
+left: 360px;
+top: 42px;
+
+
+
+/* About Us */
+
+position: static;
+width: 63px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* White-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 40px;
+
+
+/* Support */
+
+position: static;
+width: 56px;
+height: 21px;
+left: 103px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* White-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 40px;
+
+
+/* Language */
+
+position: static;
+width: 71px;
+height: 21px;
+left: 199px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* White-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 40px;
+
+
+/* Frame 20 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 30px;
+
+position: absolute;
+width: 151px;
+height: 48px;
+left: 1169px;
+top: 27px;
+
+/* White-primary */
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Sign In */
+
+position: static;
+width: 48px;
+height: 21px;
+left: 51.5px;
+top: 13.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* Blue-primary */
+color: #3E86F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Plan the perfect winter trip */
+
+position: absolute;
+width: 762px;
+height: 73px;
+left: 120px;
+top: 200px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 130%;
+/* identical to box height, or 73px */
+letter-spacing: -0.03em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Easily plan your ideal ski trip from home with the help of professionals */
+
+position: absolute;
+width: 529px;
+height: 68px;
+left: 120px;
+top: 293px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 155%;
+/* or 34px */
+letter-spacing: -0.01em;
+
+/* White-primary */
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 22px 39px;
+
+position: absolute;
+width: 183px;
+height: 64px;
+left: 120px;
+top: 429px;
+
+/* Blue-primary */
+background: #3E86F5;
+border-radius: 10px;
+
+
+/* Book Here */
+
+position: static;
+width: 82px;
+height: 24px;
+left: 50.5px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+/* White-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Frame 29 */
+
+position: absolute;
+width: 1200px;
+height: 140px;
+left: 120px;
+top: 714px;
+
+background: #FFFFFF;
+box-shadow: 0px 134px 193px rgba(183, 183, 183, 0.07),
+0px 16.7789px 24.1666px rgba(183, 183, 183, 0.035);
+border-radius: 16px;
+
+
+/* Group 36 */
+
+position: absolute;
+width: 213px;
+height: 63px;
+left: 24px;
+top: 40px;
+
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 213px;
+height: 63px;
+left: 24px;
+top: 40px;
+
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 126px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* map-pin */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 4.17%;
+
+border: 1.5px solid #3E86F5;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 29.17%;
+bottom: 45.83%;
+
+border: 1.5px solid #3E86F5;
+
+
+/* LOCATION */
+
+position: static;
+width: 90px;
+height: 24px;
+left: 36px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #929191;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 94px;
+height: 27px;
+left: 0px;
+top: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* Iceland */
+
+position: static;
+width: 68px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* chevron-down */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 70px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.5px solid #666666;
+
+
+/* Group 37 */
+
+position: absolute;
+width: 217px;
+height: 63px;
+left: 256px;
+top: 38px;
+
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 217px;
+height: 63px;
+left: 256px;
+top: 38px;
+
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 116px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* user */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 62.5%;
+bottom: 12.5%;
+
+border: 1.5px solid #00C07B;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 12.5%;
+bottom: 54.17%;
+
+border: 1.5px solid #00C07B;
+
+
+/* PERSONS */
+
+position: static;
+width: 80px;
+height: 24px;
+left: 36px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #929191;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 114px;
+height: 27px;
+left: 0px;
+top: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* 4 Persons */
+
+position: static;
+width: 88px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* chevron-down */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 90px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.5px solid #666666;
+
+
+/* Group 38 */
+
+position: absolute;
+width: 217px;
+height: 63px;
+left: 492px;
+top: 41px;
+
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 217px;
+height: 63px;
+left: 492px;
+top: 41px;
+
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 120px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* calendar */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 8.33%;
+
+border: 1.5px solid #CC0024;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.5px solid #CC0024;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 66.67%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.5px solid #CC0024;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 41.67%;
+bottom: 58.33%;
+
+border: 1.5px solid #CC0024;
+
+
+/* CHECK IN */
+
+position: static;
+width: 84px;
+height: 24px;
+left: 36px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #929191;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 171px;
+height: 27px;
+left: 0px;
+top: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* 12 January 2022 */
+
+position: static;
+width: 145px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* chevron-down */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 147px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.5px solid #666666;
+
+
+/* Group 39 */
+
+position: absolute;
+width: 217px;
+height: 63px;
+left: 728px;
+top: 41px;
+
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 217px;
+height: 63px;
+left: 728px;
+top: 41px;
+
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 138px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* calendar */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 8.33%;
+
+border: 1.5px solid #CC0024;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.5px solid #CC0024;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 66.67%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.5px solid #CC0024;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 41.67%;
+bottom: 58.33%;
+
+border: 1.5px solid #CC0024;
+
+
+/* CHECK OUT */
+
+position: static;
+width: 102px;
+height: 24px;
+left: 36px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #929191;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 172px;
+height: 27px;
+left: 0px;
+top: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 12px 0px;
+
+
+/* 18 January 2022 */
+
+position: static;
+width: 146px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* chevron-down */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 148px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 2px;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.5px solid #666666;
+
+
+/* Frame 20 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 22px 39px;
+
+position: absolute;
+width: 213px;
+height: 64px;
+left: 964px;
+top: 38px;
+
+background: #3E86F5;
+border-radius: 10px;
+
+
+/* Book Trip */
+
+position: static;
+width: 75px;
+height: 24px;
+left: 51.5px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+/* White-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* flight_black_24dp 1 */
+
+position: static;
+width: 25px;
+height: 25px;
+left: 161.5px;
+top: 19.5px;
+
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 0%;
+bottom: 0%;
+
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 91.67%;
+right: -70.83%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #FFFFFF;
+transform: rotate(90deg);

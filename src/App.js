@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      ghckug
+      <div className='Frame28'>
+hgbh
+      </div>
     </div>
   );
 }
